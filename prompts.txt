@@ -1,0 +1,3 @@
+1. what is clickhouse
+
+2. Develop a web-based application with a simple user interface (UI) that facilitates data ingestion between a ClickHouse database and the Flat File platform. The application must support bidirectional data ow (ClickHouse to Flat File and Flat File toClickHouse), handle JWT token-based authentication for ClickHouse as a source, allow users to select specic columns for ingestion, and report the total number of records processed upon completion.explain this problem statement to me. 
